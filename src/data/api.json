@@ -1,0 +1,55 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Monitor 17 pulgadas",
+      "descripcion": "Monitor plano LCD",
+      "precio": 110.22,
+      "createdAt": "2024-10-23T10:56:35.101Z"
+    },
+    {
+      "id": "2",
+      "nombre": "Teclado",
+      "descripcion": "Teclado USB en español",
+      "precio": 20.12,
+      "createdAt": "2024-10-23T10:56:35.101Z"
+    },
+    {
+      "id": "3",
+      "nombre": "Impresora",
+      "descripcion": "Impresora láser a color",
+      "precio": 360.05,
+      "createdAt": "2024-10-23T10:56:35.101Z"
+    },
+    {
+      "id": "0e18",
+      "nombre": "paco",
+      "descripcion": "si",
+      "precio": 43434,
+      "createdAt": "2024-11-20T17:41:21.704Z"
+    }
+  ],
+  "clientes": [
+    {
+      "id": "b432",
+      "nombre": "dasdad",
+      "domicilio": "asdad",
+      "fechanac": "2024-11-07",
+      "createdAt": "2024-11-27T17:58:25.731Z"
+    },
+    {
+      "id": "8aa4",
+      "nombre": "jose",
+      "domicilio": "esto es desde la api chula",
+      "fechanac": "2022-06-16",
+      "createdAt": "2024-11-27T18:00:32.876Z"
+    },
+    {
+      "id": "9c4f",
+      "nombre": "Pan De Centeno",
+      "domicilio": "gsdfdsfdsf",
+      "fechanac": "2003-06-03",
+      "createdAt": "2024-11-27T18:12:29.753Z"
+    }
+  ]
+}
